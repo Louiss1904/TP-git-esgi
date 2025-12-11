@@ -1,3 +1,8 @@
 .DS_Store
 node_modules/
 dist/
+AppData/
+*.TM.blf
+*.regtrans-ms
+bureau/
+*.ini
